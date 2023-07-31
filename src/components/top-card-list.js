@@ -6,14 +6,14 @@ import {generate as id} from 'shortid'
 
 const cardListData = [
     {
-        userName: '@pepito',
-        followers: '1486',
-        todayFollowers:12,
+        userName: '@aadivasi',
+        followers: '148634',
+        todayFollowers:122,
         icon: "images/facebook.png",
         name: 'facebook'
     },
     {
-        userName: '@luisa',
+        userName: '@9th-Floor',
         followers:'28540',
         todayFollowers:20,
         icon: "images/twitter.png",
@@ -22,7 +22,7 @@ const cardListData = [
 
     },
     {
-        userName: '@osvaldo',
+        userName: '@trader',
         followers:'4550',
         todayFollowers:30,
         icon: "images/instagram24.png",
@@ -31,7 +31,7 @@ const cardListData = [
 
     },
     {
-        userName: '@jose',
+        userName: '@Instructor',
         followers:'4140',
         todayFollowers:-50,
         icon: "images/youtube.png",
